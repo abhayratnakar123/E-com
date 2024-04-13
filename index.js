@@ -5,7 +5,6 @@ const userRoutes=require("./routes/userRoutes")
 const productRoutes=require("./routes/productRoutes")
 const orderRoutes=require("./routes/orderRoutes") 
 const cors=require("cors")
-const payment = require("./routes/payment")
 const app=express()
 // const Razorpay = require("razorpay");
 
